@@ -133,6 +133,7 @@ COVID19-Global-Trend-Forecasting
 │   └── covid_19_clean_complete.csv
 │
 ├── docs
+│   └── COVID-19_Project_Report.pdf
 │
 ├── images
 │   ├── confirmed_case_trend.png
